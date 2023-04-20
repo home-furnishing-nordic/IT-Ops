@@ -1,2 +1,2 @@
-# IT-Ops-OS-Deployment
+# IT-Ops
 Azure AD OS Deployment for HFN
